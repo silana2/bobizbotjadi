@@ -119,7 +119,7 @@ global.gatabot = gt
 global.yt = 'https://youtube.com/@noureddineouafy2'
 global.youtube = yt
 
-global.ig = s'http://www.instagram.com/noureddine_ouafy'
+global.ig = 'http://www.instagram.com/noureddine_ouafy'
 global.gatadiosig = ig
 
 global.md = 'http://www.instagram.com/noureddine_ouafy'
