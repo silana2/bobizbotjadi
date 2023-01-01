@@ -1,19 +1,19 @@
 import { watchFile, unwatchFile } from 'fs' 
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
-import moment from 'moment-timezone' 
+import moment from 'moment-timezone'
 import fs from 'fs' 
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['593993684821', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['5493458410725', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 4 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['5492266466080'], ['573136855110'], ['50689823726'], ['50495086382'], ['51960086535'],
-  ['584125778026'], ['584166662765'], ['584163647116'], ['15512090312'], ['593968585383']]
+  ['212605784394', 'BOBIZBOT', true],
+  ['212605784394', 'BOBIZBOT', true],
+  ['212605784394', 'BOBIZBOT', true],
+  ['212605784394', 'BOBIZBOT', true],
+  ['212605784394', 'BOBIZBOT', true], 
+  ['212605784394'], ['212605784394'], ['212605784394'], ['212605784394'], ['212605784394'],
+  ['212605784394'], ['212605784394'], ['212605784394'], ['212605784394'], ['212605784394']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
@@ -27,7 +27,7 @@ global.prems = ['528451003894'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -102,8 +102,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'bobiz bot'
+global.author = 'noureddine ouafy'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
