@@ -77,13 +77,9 @@ let adReply = { fileLength: fsizedoc, seconds: fsizedoc, contextInfo: { forwardi
 let menuA = `${lenguajeGB['smsConfi2']()} *${username}*
 
 ╭┄〔 *${wm}* 〕┄⊱
-┊დ *${week}, ${date}*
-┊დ *${lenguajeGB['smsBotonM4']()} » ${Object.keys(global.db.data.users).length}* 
-┊
-┊დ *${lenguajeGB['smsBotonM5']()} »* ${role}
-┊დ *${lenguajeGB['smsBotonM6']()} » ${level} || ${user.exp - min}/${xp}*
-┊დ *${lenguajeGB['smsBotonM7']()} »* ${user.premiumTime > 0 ? '✅' : '❌'}
-╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱`.trim()
+┊مرحبا أنا هنا لمساعدتك♥
+┊ instagram.com/noureddine_ouafy
+╰┄┄┄┄〔 *❀☺❀ ${vs}* 〕┄┄┄┄⊱`.trim()
 
 let menuB = `
 *╭━〔* ${username} *〕━⬣*
